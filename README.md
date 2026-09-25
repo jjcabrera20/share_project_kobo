@@ -76,7 +76,7 @@ The script then bulk-assigns the listed permissions to each user and prints a su
 
 Granting a higher-level permission automatically includes the ones it depends on — e.g. you don't need to list `view_asset` alongside `add_submissions`.
 
-## Packaging as an .exe
+## Package .exe
 
 To distribute this as a standalone Windows executable (no Python required on the recipient's machine):
 
