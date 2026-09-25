@@ -55,7 +55,7 @@ You'll be prompted for:
 | Prompt | Description |
 |---|---|
 | Kobo domain | Defaults to `kf.kobotoolbox.org`; change if self-hosted |
-| API token | From `https://<domain>/token/` |
+| API token | From your KoboToolbox account |
 | Project (asset) UID | The project you're sharing |
 | Path to CSV file | Defaults to `users.csv` in the current folder |
 
