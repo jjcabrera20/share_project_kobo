@@ -1,0 +1,24 @@
+# --- PyInstaller build artifacts ---
+build/
+dist/
+*.spec
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- Editor ---
+.vscode/
+
+# --- Sensitive / local data ---
+# Contains real usernames — don't commit actual data, only a template.
+users.csv
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
