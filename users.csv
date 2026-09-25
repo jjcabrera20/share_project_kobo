@@ -1,0 +1,4 @@
+username,permissions
+account_test01,add_submissions
+account_test_02,add_submissions|view_submissions
+account_test03,view_submissions|change_submissions|validate_submissions
